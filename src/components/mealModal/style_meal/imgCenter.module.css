@@ -1,0 +1,14 @@
+
+
+._centerOfImg {
+    display: inline-block;
+    overflow: hidden;
+    color: red;
+}
+._centerOfImg img {
+    position: relative;
+    margin-top: -10%;
+    transform: translateY(10%);
+    width: 400px;
+    height: 400px;
+}

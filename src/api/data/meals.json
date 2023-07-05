@@ -1,0 +1,38 @@
+[
+    {   
+        "id": 1,
+        "name": "Pizza",
+        "calories": 1100,
+        "carbs": 450,
+        "fat": 15,
+        "protein": 24,
+        "img": "https://images.unsplash.com/photo-1594007654729-407eedc4be65?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 2,
+        "name": "Salad",
+        "calories": 1800,
+        "carbs": 550,
+        "fat": 10,
+        "protein": 44,
+        "img": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 3,
+        "name": "Ice Cream",
+        "calories": 1600,
+        "carbs": 1050,
+        "fat": 5,
+        "protein": 8,
+        "img": "https://images.unsplash.com/photo-1497034825429-c343d7c6a68f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 4,
+        "name": "Egg Berger",
+        "calories": 1700,
+        "carbs": 650,
+        "fat": 19,
+        "protein": 34,
+        "img": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8MzN8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+    }
+]

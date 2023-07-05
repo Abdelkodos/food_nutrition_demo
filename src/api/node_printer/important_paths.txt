@@ -1,0 +1,1 @@
+/home/mekkaoui/tutorials/node_printer/node_modules/node-thermal-printer/lib/interfaces/network.js
